@@ -1,0 +1,12 @@
+Source: ros-dashing-urdfdom-py
+Section: misc
+Priority: optional
+Maintainer: Chris Lalancette <clalancette@osrfoundation.org>
+Build-Depends: debhelper (>= 9.0.0), python3-mock, ros-dashing-ros-workspace, python3-all, python3-setuptools
+Homepage: http://wiki.ros.org/urdfdom_py
+Standards-Version: 3.9.2
+
+Package: ros-dashing-urdfdom-py
+Architecture: any
+Depends: ${python3:Depends}, ${misc:Depends}, python3-lxml, python3-yaml, ros-dashing-rclpy, ros-dashing-ros-workspace
+Description: Python implementation of the URDF parser.
