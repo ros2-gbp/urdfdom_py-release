@@ -1,3 +1,26 @@
+## urdf_parser_py (rolling) - 1.2.0-1
+
+The packages in the `urdf_parser_py` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --rosdistro rolling --track rolling urdf_parser_py` on `Wed, 30 Mar 2022 18:42:07 -0000`
+
+The `urdfdom_py` package was released.
+
+Version of package(s) in repository `urdf_parser_py`:
+
+- upstream repository: https://github.com/ros/urdf_parser_py.git
+- release repository: https://github.com/ros2-gbp/urdfdom_py-release.git
+- rosdistro version: `1.1.0-2`
+- old version: `1.1.0-2`
+- new version: `1.2.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.7`
+- catkin_pkg version: `0.4.24`
+- rosdep version: `0.21.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## urdf_parser_py (rolling) - 1.1.0-1
 
 The packages in the `urdf_parser_py` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --track rolling --rosdistro rolling urdf_parser_py` on `Mon, 15 Mar 2021 14:57:48 -0000`
