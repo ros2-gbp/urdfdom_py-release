@@ -1,1 +1,1 @@
-{"base": "f940a12", "parent": "debian/rolling/urdfdom_py", "previous": "5d97286", "trim": "", "trimbase": ""}
+{"base": "85c4ecde0406", "parent": "debian/kilted/urdfdom_py", "previous": "5e3b884bbc8b", "trim": "", "trimbase": ""}
